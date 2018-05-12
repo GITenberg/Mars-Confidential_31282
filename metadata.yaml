@@ -1,0 +1,44 @@
+_repo: Mars-Confidential_31282
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L. R.
+    - Summers, Leo Ramon
+    - Summers, L.R.
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: archival
+  image_path: 31282-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Browne, Howard
+    aliases:
+    - Carleton, H. B.
+    - Pollard, John
+    birthdate: 1907
+    deathdate: 1999
+    gutenberg_agent_id: '35119'
+    url: http://www.gutenberg.org/2009/agents/35119
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Browne
+description: ''
+gutenberg_issued: '2010-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Mafia -- Fiction'
+title: Mars Confidential
+url: http://www.gutenberg.org/ebooks/31282
