@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35119
     wikipedia: http://en.wikipedia.org/wiki/Howard_Browne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31282#Mars-Confidential
 gutenberg_issued: '2010-02-15'
 gutenberg_type: Text
 identifiers:
